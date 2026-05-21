@@ -1,5 +1,7 @@
 Must be using a hacked/modded switch with atmosphere support. 
 
+If you want the same frames im getting you must overclock the switch. Cpu 1963. Gpu 1228. Mem 2133
+
 To install just extract folder into root of switch sdcard.
 
 <img width="1527" height="625" alt="{AF3D6FBA-7C55-4917-A47E-F26C6E9A797E}" src="https://github.com/user-attachments/assets/bf40698f-f224-4e8b-95a9-221ddc50ec7a" />
