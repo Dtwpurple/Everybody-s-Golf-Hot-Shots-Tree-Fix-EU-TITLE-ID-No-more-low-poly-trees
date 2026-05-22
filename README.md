@@ -27,4 +27,6 @@ had to reupload 421 because I forgot the new boot.config which changes the follo
 enabled gpu multithreading option
 -
 increases nvn gpu firmware memory to 256 instead of 32
+
+
 I have noticed very few things have banding now. i cant figure out a way to fix this sorry, tried for hours. Unfortunately the shadow distance has a baked in limit. so even trying to max it out like the trees has no effect. this is the best we get boys.
